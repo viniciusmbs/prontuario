@@ -1,0 +1,6 @@
+{
+  "name": "Prontuário e Dossiê Clínico Vascular - Vinícius Paes Mendes Pereira",
+  "description": "Portal e prontuário médico digital do paciente Vinícius Paes Mendes Pereira para consulta e internação hospitalar (HNMD). Busca rápida de resultados de exames, correlação com a pasta física de documentos, visualizador de laudos em PDF e histórico evolutivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
